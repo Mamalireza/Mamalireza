@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, Welcome to my profile! 👋
 
-<!--
-**Mamalireza/Mamalireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+Hello! My name is Mohammad Reza Mostahsan, I am 19 years old, and I live in Iran.  
+I am a beginner Front-End Developer specializing in **HTML** and **CSS**, building clean and responsive web pages.  
 
-Here are some ideas to get you started:
+I am eager to learn more technologies like JavaScript and frameworks to improve my skills and become a full-stack developer in the future.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📚 Learning
+Currently learning **JavaScript** to create interactive web pages.
